@@ -5,6 +5,7 @@
 <h1 align="center">Hi, I'm Abishan Arulneethan 👋</h1>
 <h3 align="center">A passionate fullstack developer from France seeking for permanent contract or à international corporate volunteering (VIE) 🇫🇷 </h3>
 <img align="right" alt="Coding" width="400" src="https://attic.sh/sgjde0t7ycp72bc95metd42w0ebe">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishan13&label=Profile%20views&color=0e75b6&style=flat" alt="abishan13" /> </p>
 
 
 
@@ -28,7 +29,7 @@
 <a href="https://linkedin.com/in/abishanarul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishanarul" height="30" width="40" /></a>
 </p>
 
-#  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishan13&label=Profile%20views&color=0e75b6&style=flat" alt="abishan13" /> </p>
+# 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abishan13&show_icons=true&locale=en&layout=compact" alt="abishan13" /></p>
 
