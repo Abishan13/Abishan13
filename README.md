@@ -1,9 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishan13&label=Profile%20views&color=0e75b6&style=flat" alt="abishan13" /> </p>
+
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH8WygoBKq1yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698335347163?e=1731542400&v=beta&t=T__FUjBG-kgk-Yh60B9klLPqfKHIqDD9Lg9YNFoZ9wE)](https://arulabishan.dev)
+
 <h1 align="center">Hi, I'm Abishan Arulneethan 👋</h1>
 <h3 align="center">A passionate fullstack developer from France seeking for permanent contract or à international corporate volunteering (VIE) 🇫🇷 </h3>
 <img align="right" alt="Coding" width="400" src="https://attic.sh/sgjde0t7ycp72bc95metd42w0ebe">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishan13&label=Profile%20views&color=0e75b6&style=flat" alt="abishan13" /> </p>
+
 
 - 🌱 I’m currently learning **Next.js**
 
