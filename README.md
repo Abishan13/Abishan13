@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arulabishan.dev](https://arulabishan.dev)
 
-- 💬 Ask me about **React, .NET**
+- 💬 Ask me about **React, .NET, Javascript, Typescript, Material UI, NodeJS**
 
 - 📫 How to reach me **arul.abishanpro@gmail.com**
 
