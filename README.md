@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://arulabishan.dev](https://arulabishan.dev)
+- 👨‍💻 All of my projects are available at [https://www.arulabishan.com](https://www.arulabishan.com)
 
 - 💬 Ask me about **React, .NET, Javascript, Typescript, Material UI, NodeJS**
 
