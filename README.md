@@ -14,8 +14,8 @@
 - 📫 Reach me at **arul.abishanpro@gmail.com**
 - 📄 Know about my experiences on my **Curriculum Vitae** :
   
-  🇫🇷 [French Version](https://drive.google.com/file/d/1aJTq90pRkGG9N3KGoWvS8jXygVhDE1J_/view?usp=sharing)  
-  🇬🇧 [English Version](https://drive.google.com/file/d/1QMx5nvA5LbqnNm5bGLYdVcsVIKty_F2D/view?usp=sharing)
+  🇫🇷  [French Version](https://drive.google.com/file/d/1aJTq90pRkGG9N3KGoWvS8jXygVhDE1J_/view?usp=sharing)  
+  🇬🇧  [English Version](https://drive.google.com/file/d/1QMx5nvA5LbqnNm5bGLYdVcsVIKty_F2D/view?usp=sharing)
 
 ---
 
@@ -71,9 +71,8 @@
 
 ### 🚀 Featured Projects
 
-- [MCU Tracker](https://github.com/Abishan13/mcu-tracker) - React app to track Marvel movies progress.
-- [SaaS Sponsors](https://github.com/Abishan13/sponsors-app) - Partnership management web app.
-- [API REST Node.js](https://github.com/Abishan13/api-sample) - Sample backend project.
+- [Weather React](https://github.com/Abishan13/react-weather-app) - 🌦️ Real-time weather forecast app built with React & Vite.
+
 
 ---
 
