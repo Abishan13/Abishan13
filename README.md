@@ -13,7 +13,7 @@
 - 💬 Ask me about **React, .NET, JavaScript, TypeScript, Material UI, Node.js**
 - 📫 Reach me at **arul.abishanpro@gmail.com**
 - 📄 Know about my experiences on my **Curriculum Vitae** :
-    
+  
   🇫🇷 [French Version](https://drive.google.com/file/d/1aJTq90pRkGG9N3KGoWvS8jXygVhDE1J_/view?usp=sharing)  
   🇬🇧 [English Version](https://drive.google.com/file/d/1QMx5nvA5LbqnNm5bGLYdVcsVIKty_F2D/view?usp=sharing)
 
@@ -50,6 +50,14 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-%2300ADD8.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![CS50 Python](https://img.shields.io/badge/HarvardX-CS50%20Python-%23A51C30?style=for-the-badge&logo=python&logoColor=white)](https://cs50.harvard.edu/python/)
+[![Python 3 Certification](https://img.shields.io/badge/Python%203-Fondamentaux%20&%20Avanc%C3%A9s-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances/)
 
 ---
 
