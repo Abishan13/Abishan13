@@ -19,6 +19,14 @@
 
 ---
 
+### 🔍 Looking For
+
+🚀 I am currently looking for a **Fullstack Developer** or **Frontend Developer** position (React)  
+📍 Based in **Paris, France** — open to **remote** or **hybrid** opportunities  
+📄 Available for a **Full-time CDI**
+
+---
+
 ### 🛠️ Tech Stack
 
 **Frontend:**  
