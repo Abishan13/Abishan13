@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **arul.abishanpro@gmail.com**
 
-- 📄 Know about my experiences on my [Curriculum Vitae](https://drive.google.com/file/d/1aJTq90pRkGG9N3KGoWvS8jXygVhDE1J_/view?usp=sharing)
+- 📄 Know about my experiences on my Curriculum Vitae:  
+  🇫🇷 [French Version](https://drive.google.com/file/d/1aJTq90pRkGG9N3KGoWvS8jXygVhDE1J_/view?usp=sharing)  
+  🇬🇧 [English Version](https://drive.google.com/file/d/1QMx5nvA5LbqnNm5bGLYdVcsVIKty_F2D/view?usp=sharing)
 
 #
 
