@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Abishan13&icon=0&color=0)](https://visitcount.itsvg.in)
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH8WygoBKq1yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698335347163?e=1731542400&v=beta&t=T__FUjBG-kgk-Yh60B9klLPqfKHIqDD9Lg9YNFoZ9wE)](https://www.arulabishan.com)
+[![MasterHead](./Masterhead.jpeg)](https://www.arulabishan.com)
 
 <h1 align="center">Hi, I'm Abishan Arulneethan 💻</h1>
 <h3 align="center">Fullstack Developer building intuitive & scalable web applications from Paris 🇫🇷</h3>
