@@ -74,8 +74,9 @@
 
 ### 🚀 Featured Projects
 
-- [Weather React](https://github.com/Abishan13/react-weather-app) - 🌦️ Real-time weather forecast app built with React & Vite.
 - [Maidanam](https://github.com/Abishan13/maidanam-showcase) - ⚽ Mobile app to track scores & rankings of the Tamil Football League in France (React Native & Firebase).
+- [PartnR](https://github.com/Abishan13/partnr-showcase) - 🤝 Web platform to manage professional partnerships and sponsorships efficiently (React, Supabase & TailwindCSS).
+- [Weather React](https://github.com/Abishan13/react-weather-app) - 🌦️ Real-time weather forecast app built with React & Vite.
 
 
 ---
