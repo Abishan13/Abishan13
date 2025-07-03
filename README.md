@@ -8,6 +8,7 @@
 
 ### 🚀 About Me
 
+- 💼 Currently working as a **Fullstack Developer** at **Silogis**
 - 🌱 Currently learning **Next.js**
 - 👨‍💻 All my projects are available on my [Portfolio Website](https://www.arulabishan.com)
 - 💬 Ask me about **React, .NET, JavaScript, TypeScript, Material UI, Node.js**
@@ -16,14 +17,6 @@
   
   🇫🇷  [French Version](https://drive.google.com/file/d/1aJTq90pRkGG9N3KGoWvS8jXygVhDE1J_/view?usp=sharing)  
   🇬🇧  [English Version](https://drive.google.com/file/d/1QMx5nvA5LbqnNm5bGLYdVcsVIKty_F2D/view?usp=sharing)
-
----
-
-### 🔍 Looking For
-
-🚀 I am currently looking for a **Fullstack Developer** or **Frontend Developer** position (React)  
-📍 Based in **Paris, France** — open to **remote** or **hybrid** opportunities  
-📄 Available for a **Full-time CDI** or **VIE**
 
 ---
 
